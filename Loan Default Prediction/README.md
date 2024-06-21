@@ -1,5 +1,5 @@
 
-#Loan Default Prediction
+# Loan Default Prediction
 
 ## Project Overview
 This project aims to predict clients who are likely to default on home equity loans using various machine learning algorithms.
