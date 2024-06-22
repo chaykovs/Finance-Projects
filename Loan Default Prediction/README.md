@@ -16,7 +16,7 @@ The dataset includes historical loan data, client information, and default statu
   - XGBoost
 
 ## Results
-- Achieved an accuracy of 85% with the XGBoost model.
+- Achieved an accuracy of 90% and positive recall of 85% with the XGBoost model.
 - Key features influencing default prediction were identified.
 
 ## Files
